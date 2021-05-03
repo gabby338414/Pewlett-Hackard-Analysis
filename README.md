@@ -12,4 +12,4 @@ The Purpose of this analysis was for Bobby to create multiple tables for the Ret
 
 ## Summary: Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
 How many roles will need to be filled as the "silver tsunami" begins to make an impact? 90,398
-Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees? 
+Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees? 1,549, no there are not enough mentorees to take place of the retiring roles.
