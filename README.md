@@ -3,7 +3,7 @@
 The Purpose of this analysis was for Bobby to create multiple tables for the Retiring Employees and the employees ready for Mentorship Eligibility. To help them get ready for the silver tsunami of employees about to retire.
 ## Results: Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed.
 * Retirement_titles: shows the double names in the departments titles that retiring and will come available. 
-
+![retirement_titles](https://github.com/gabby338414/Pewlett-Hackard-Analysis/blob/03cfcab6115510cba4e3e582043d48e80c3a35dd/Data/retirement_titles.PNG)
 
 * Retiring_titles: gives the total number of titles that are retiring in each department.
 
