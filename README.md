@@ -6,7 +6,7 @@ The Purpose of this analysis was for Bobby to create multiple tables for the Ret
 ![retirement_titles](https://github.com/gabby338414/Pewlett-Hackard-Analysis/blob/03cfcab6115510cba4e3e582043d48e80c3a35dd/Data/retirement_titles.PNG)
 
 * Retiring_titles: gives the total number of titles that are retiring in each department.
-
+![retiring_titles](https://github.com/gabby338414/Pewlett-Hackard-Analysis/blob/859dd355c503e97645a384a97b6d9c71931208ce/Data/retiring_titles.PNG)
 
 * Unique_titles: shows the retirement titles table but its single names only, it helps narrow down the names.
 
