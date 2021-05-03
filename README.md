@@ -6,10 +6,12 @@ The Purpose of this analysis was for Bobby to create multiple tables for the Ret
 ![retirement_titles](https://github.com/gabby338414/Pewlett-Hackard-Analysis/blob/03cfcab6115510cba4e3e582043d48e80c3a35dd/Data/retirement_titles.PNG)
 
 * Retiring_titles: gives the total number of titles that are retiring in each department.
+
 ![retiring_titles](https://github.com/gabby338414/Pewlett-Hackard-Analysis/blob/859dd355c503e97645a384a97b6d9c71931208ce/Data/retiring_titles.PNG)
 
 * Unique_titles: shows the retirement titles table but its single names only, it helps narrow down the names.
 
+![unique_titles](https://github.com/gabby338414/Pewlett-Hackard-Analysis/blob/2f2afcd7568d443a1ad65856c48665f8b0f113cd/Data/unique_titles.PNG)
 
 * Mentorship_eligibility: shows the employees that are eligible for mentorship to take the retirees place.
 ![mentorship_eligibility](https://github.com/gabby338414/Pewlett-Hackard-Analysis/blob/457f0402c1a9c7d04fd9087c2975b9da48368fc8/Data/mentorship_eligibility.PNG)
