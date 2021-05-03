@@ -4,11 +4,15 @@ The Purpose of this analysis was for Bobby to create multiple tables for the Ret
 ## Results: Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed.
 * Retirement_titles: shows the double names in the departments titles that retiring and will come available. 
 
+
 * Retiring_titles: gives the total number of titles that are retiring in each department.
+
 
 * Unique_titles: shows the retirement titles table but its single names only, it helps narrow down the names.
 
+
 * Mentorship_eligibility: shows the employees that are eligible for mentorship to take the retirees place.
+![mentorship_eligibility](https://github.com/gabby338414/Pewlett-Hackard-Analysis/blob/457f0402c1a9c7d04fd9087c2975b9da48368fc8/Data/mentorship_eligibility.PNG)
 
 ## Summary: Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
 How many roles will need to be filled as the "silver tsunami" begins to make an impact? 90,398
